@@ -1,4 +1,4 @@
-# Serveur d'Automatisation N8N 
+# Serveur d'Automatisation N8N
 
 ## Description
 Serveur d'automatisation business utilisant n8n pour optimiser les processus métier.
