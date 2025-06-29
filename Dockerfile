@@ -11,6 +11,6 @@ services:
       - key: N8N_BASIC_AUTH_USER
         value: admin
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: MotDePasseSecurise123
+        value: Maman561978
       - key: N8N_PORT
         value: 5678
